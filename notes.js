@@ -25,6 +25,32 @@ const notesData = {
             date: "2025-01-20"
         }
     ],
+    "Sample-test by Aarman":[
+        {
+            title: "mein hu yaha",
+            type: "pdf",
+            description: "pata nahi kya hai ",
+            driveUrl: "https://drive.google.com/file/d/1example/view?usp=sharing",
+            localUrl: "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+            date: "2025-01-15"
+        },
+        {
+            title: "Chapter 2: Stacks and Queues",
+            type: "pdf",
+            description: "Stack operations, queue implementations, and applications",
+            driveUrl: "https://drive.google.com/file/d/2example/view?usp=sharing", 
+            localUrl: "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+            date: "2025-01-18"
+        },
+        {
+            title: "Important Algorithms Cheat Sheet",
+            type: "image",
+            description: "Quick reference for sorting and searching algorithms",
+            driveUrl: "https://drive.google.com/file/d/3example/view?usp=sharing",
+            localUrl: "https://via.placeholder.com/800x1000/4f46e5/ffffff?text=DS+Algorithms+Cheat+Sheet",
+            date: "2025-01-20"
+        }
+    ],
     "Web Development": [
         {
             title: "HTML5 & CSS3 Fundamentals",
